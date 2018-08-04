@@ -7,6 +7,7 @@ Image Decryption is used to reverse the process of Encryption. In this process t
 Today, lot of images are used as a digital signature for many of the services and their security is very essential, hence through this interface we provide a way to encrypt the image at source as well as compress it. The same is also decrypted and decompressed at the destination.
 Users see the confidentiality in AES Algorithm used for encryption. 
 
+
 **Functional Requirements:-**
 
 •	Functional requirements directly support the user requirements by describing the processing of the information as inputs or outputs.
@@ -34,4 +35,5 @@ Performance requirement reference to as measurement of some output or behavior i
 •	Security
 
 Security requirement in this project refer to as the inability of unauthorized user or intruder to read Images that are being transmitted between sender and receiver.This is crucial requirement for the project.
+
 
